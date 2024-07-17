@@ -1,2 +1,2 @@
-# devMap
-A map in the making of relevant frontend development tools, made in Obsidian
+# devmap
+Experiment in options for visually mapping development tools as interconnected nodes, exporting an Obsidian canvas for hosting with nice interactivity. 
